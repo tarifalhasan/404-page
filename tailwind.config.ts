@@ -12,6 +12,9 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        minecraft: "var(--font-minecraft_font)",
+      },
     },
   },
   plugins: [],
