@@ -3,7 +3,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 
 const minecraftFont = localFont({
-  src: "./fonts/minecraft_font.woff",
+  src: "./fonts/minecraft.woff",
   variable: "--font-minecraft_font",
   // weight: "100 900",
 });
