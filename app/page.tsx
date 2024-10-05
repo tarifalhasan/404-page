@@ -8,7 +8,7 @@ export default function Home() {
           backgroundSize: "100% 100%", // Forces the background to stretch to 100% width and height
           backgroundPosition: "center", // Centers the background image
         }}
-        className="min-h-[calc(100vh-50px)]  flex flex-col lg:flex-row gap-4 w-full  mx-  bg-[url('/bg.png')]  px-4 py-6 overflow-hidden xl:py-10 bg-no-repeat  max-w-[calc(100%-40px)] relative lg:items-center"
+        className="min-h-[calc(100vh-50px)]  flex flex-col lg:flex-row gap-4 w-full  mx-  bg-black lg:bg-[url('/bg.png')]  px-4 py-6 overflow-hidden xl:py-10 bg-no-repeat  max-w-[calc(100%-40px)] relative lg:items-center"
       >
         <div className="absolute  bottom-[96%]">
           <h3 className="text-[23px] font-minecraft font-normal uppercase">
